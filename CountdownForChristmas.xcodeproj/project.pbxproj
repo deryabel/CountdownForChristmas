@@ -12,7 +12,7 @@
 		90D80AF8276745120024DCDC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D80AF7276745120024DCDC /* ContentView.swift */; };
 		90D80AFA2767451B0024DCDC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90D80AF92767451B0024DCDC /* Assets.xcassets */; };
 		90D80AFD2767451B0024DCDC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90D80AFC2767451B0024DCDC /* Preview Assets.xcassets */; };
-		90D80B002767451B0024DCDC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D80AFE2767451B0024DCDC /* LaunchScreen.storyboard */; };
+		90D80B1727674C930024DCDC /* Kingthings Christmas 2.2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 90D80B1627674C930024DCDC /* Kingthings Christmas 2.2.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,8 +22,8 @@
 		90D80AF7276745120024DCDC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		90D80AF92767451B0024DCDC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90D80AFC2767451B0024DCDC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		90D80AFF2767451B0024DCDC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90D80B012767451B0024DCDC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90D80B1627674C930024DCDC /* Kingthings Christmas 2.2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Kingthings Christmas 2.2.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +60,7 @@
 				90D80AF5276745120024DCDC /* SceneDelegate.swift */,
 				90D80AF7276745120024DCDC /* ContentView.swift */,
 				90D80AF92767451B0024DCDC /* Assets.xcassets */,
-				90D80AFE2767451B0024DCDC /* LaunchScreen.storyboard */,
+				90D80B1627674C930024DCDC /* Kingthings Christmas 2.2.ttf */,
 				90D80B012767451B0024DCDC /* Info.plist */,
 				90D80AFB2767451B0024DCDC /* Preview Content */,
 			);
@@ -132,8 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				90D80B002767451B0024DCDC /* LaunchScreen.storyboard in Resources */,
 				90D80AFD2767451B0024DCDC /* Preview Assets.xcassets in Resources */,
+				90D80B1727674C930024DCDC /* Kingthings Christmas 2.2.ttf in Resources */,
 				90D80AFA2767451B0024DCDC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -152,17 +152,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		90D80AFE2767451B0024DCDC /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				90D80AFF2767451B0024DCDC /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		90D80B022767451B0024DCDC /* Debug */ = {
